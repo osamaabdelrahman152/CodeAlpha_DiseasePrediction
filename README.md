@@ -29,4 +29,4 @@ It is an end-to-end machine learning pipeline for predicting breast cancer using
 ##  How to Run
 1. Install the requirements:
    ```bash
-  # pip install -r requirements.txt
+   pip install -r requirements.txt
